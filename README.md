@@ -10,7 +10,7 @@ All'interno del repository è presente anche una presentazione: [Presentazione](
 
 ## Visionare i notebook in Colab
 
-Per poter visionare i differenti notebook e l'output ottenuto, tramite il _framework_ CoLab, possono essere utilizzati i seguenti link:
+Per poter visionare i differenti notebook e l'output ottenuto, tramite la piattaforma CoLab, possono essere utilizzati i seguenti link:
 
 - [PlantRecognition-featureHandCrafted](https://colab.research.google.com/drive/1z7lzNsPXD3GCt4G00CmppCSSVbr61tjK?usp=sharing)
 - [PlantRecognition-deepLearning](https://colab.research.google.com/drive/1hrZNlgHyuDDuQCRIm6HN1i3ok6UwZI0W?usp=sharing)
