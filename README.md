@@ -4,7 +4,17 @@ All'interno di questo repository è possibile trovare tre diversi notebook [CoLa
 
 Tutti e tre questi notebook, prevedono il download del dataset: [Plant Diseases](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset); per poterlo scaricare ed utilizzare è necessario registrarsi al sito [Kaggle](https://www.kaggle.com/) e richiedere un'opportuna **API key**. 
 
-L'ottenimento dell'**API key** tramite il sito di Kaggle, darà la possibilità di scaricare un file `.json` contenente le informazioni della key, il quale **dovrà essere caricato** all'inizio nei diversi notebook.
+L'ottenimento dell'**API key** tramite il sito di Kaggle, darà la possibilità di scaricare un file `.json` contenente le informazioni della key, il quale **dovrà essere caricato** all'inizio nei diversi notebook, se si desidera eseguirli.
+
+All'interno del repository è presente anche una presentazione: [Presentazione](https://github.com/AnnaVitali/plantRecognition/blob/master/Presentazione/Presentazione_Sistema_di_riconoscimento_piante.pdf), che riassume le soluzioni adottate e i risultati ottenuti.
+
+## Visionare i notebook in Colab
+
+Per poter visionare i differenti notebook e l'output ottenuto, tramite il _framework_ CoLab, possono essere utilizzati i seguenti link:
+
+- [PlantRecognition-featureHandCrafted](https://colab.research.google.com/drive/1z7lzNsPXD3GCt4G00CmppCSSVbr61tjK?usp=sharing)
+- [PlantRecognition-deepLearning](https://colab.research.google.com/drive/1hrZNlgHyuDDuQCRIm6HN1i3ok6UwZI0W?usp=sharing)
+- [PlantDiseasesRecognition-deepLearning](https://colab.research.google.com/drive/150DNobbR8U791ZvlFvIwaAHfSH8j1kuK?usp=sharing)
 
 ## PlantRecognition-featureHandCrafted
 
